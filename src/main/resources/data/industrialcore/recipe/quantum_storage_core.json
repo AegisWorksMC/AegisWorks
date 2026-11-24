@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "EFE",
+    "IRI"
+  ],
+  "key": {
+    "I": { "item": "industrialcore:iron_plate" },
+    "C": { "item": "minecraft:chest" },
+    "E": { "item": "industrialcore:electronic_component" },
+    "F": { "item": "industrialcore:machine_frame" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "id": "industrialcore:quantum_storage_core",
+    "count": 1
+  }
+}

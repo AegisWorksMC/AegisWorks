@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EAE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "industrialcore:quantum_shard"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_quantum_loot",
+    "count": 1
+  }
+}

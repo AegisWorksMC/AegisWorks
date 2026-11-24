@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:precision_crushing",
+  "ingredient": {
+    "item": "industrialcore:pure_adamantite"
+  },
+  "result": {
+    "id": "industrialcore:exposed_adamantite",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 15
+}

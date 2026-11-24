@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CSC",
+    "FTF",
+    "CSC"
+  ],
+  "key": {
+    "C": {
+      "item": "industrialcore:advanced_transporter_casing"
+    },
+    "S": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "T": {
+      "item": "industrialcore:advanced_item_transporter"
+    }
+  },
+  "result": {
+    "id": "industrialcore:advanced_transporter_drive",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:aether_crystal"
+  },
+  "result": {
+    "id": "industrialcore:aether_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/energy_buffer_mk3"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/energy_buffer_mk3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/energy_buffer_mk3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/energy_buffer_mk3",
+      "y": 270
+    }
+  }
+}

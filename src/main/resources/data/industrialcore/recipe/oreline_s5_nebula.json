@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:nebula_washed"
+  },
+  "result": {
+    "id": "industrialcore:nebula_sorted",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

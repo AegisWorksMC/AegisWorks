@@ -1,0 +1,16 @@
+{
+  "type": "industrialcore:cultivation",
+  "ingredient": {
+    "item": "industrialcore:copper_seed"
+  },
+  "feed": {
+    "item": "industrialcore:copper_dust"
+  },
+  "result": {
+    "id": "industrialcore:copper_billet",
+    "count": 1
+  },
+  "time": 600,
+  "energy": 40,
+  "feedPerUnit": 4
+}

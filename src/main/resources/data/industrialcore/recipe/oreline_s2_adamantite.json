@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:adamantite_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_adamantite",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:fluid_pump"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.fluid_pump.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.fluid_pump.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/first_generator",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

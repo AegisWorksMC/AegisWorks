@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "industrialcore:uranium_dust"
+  },
+  "result": {
+    "id": "industrialcore:enriched_uranium",
+    "count": 1
+  },
+  "experience": 1.0,
+  "cookingtime": 80
+}

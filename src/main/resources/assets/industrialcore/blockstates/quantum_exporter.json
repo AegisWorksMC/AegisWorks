@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "industrialcore:block/quantum_exporter"
+    },
+    "facing=east,lit=false": {
+      "model": "industrialcore:block/quantum_exporter",
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "industrialcore:block/quantum_exporter",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "industrialcore:block/quantum_exporter",
+      "y": 270
+    },
+    "facing=up,lit=false": {
+      "model": "industrialcore:block/quantum_exporter",
+      "x": 270
+    },
+    "facing=down,lit=false": {
+      "model": "industrialcore:block/quantum_exporter",
+      "x": 90
+    },
+    "facing=north,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on"
+    },
+    "facing=east,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on",
+      "y": 90
+    },
+    "facing=south,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on",
+      "y": 180
+    },
+    "facing=west,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on",
+      "y": 270
+    },
+    "facing=up,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on",
+      "x": 270
+    },
+    "facing=down,lit=true": {
+      "model": "industrialcore:block/quantum_exporter_on",
+      "x": 90
+    }
+  }
+}

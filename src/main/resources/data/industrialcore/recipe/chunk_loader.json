@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OEO",
+    "DFD",
+    "OBO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:chunk_loader",
+    "count": 1
+  }
+}

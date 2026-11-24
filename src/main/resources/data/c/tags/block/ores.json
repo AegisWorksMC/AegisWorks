@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "industrialcore:astral_silver_ore",
+    "industrialcore:mithril_ore",
+    "industrialcore:nebula_ore",
+    "industrialcore:orichalcum_ore",
+    "industrialcore:quantum_ore",
+    "industrialcore:adamantite_ore",
+    "industrialcore:aether_ore",
+    "industrialcore:void_iron_ore"
+  ]
+}

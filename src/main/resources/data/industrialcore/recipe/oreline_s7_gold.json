@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:gold_concentrate"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "industrialcore:gold_refined",
+    "count": 32
+  },
+  "time": 10,
+  "energy": 20
+}

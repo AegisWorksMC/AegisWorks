@@ -1,0 +1,184 @@
+{
+  "variants": {
+    "part=0,facing=north": {
+      "model": "industrialcore:block/qtc_0"
+    },
+    "part=0,facing=east": {
+      "model": "industrialcore:block/qtc_0",
+      "y": 90
+    },
+    "part=0,facing=south": {
+      "model": "industrialcore:block/qtc_0",
+      "y": 180
+    },
+    "part=0,facing=west": {
+      "model": "industrialcore:block/qtc_0",
+      "y": 270
+    },
+    "part=1,facing=north": {
+      "model": "industrialcore:block/qtc_1"
+    },
+    "part=1,facing=east": {
+      "model": "industrialcore:block/qtc_1",
+      "y": 90
+    },
+    "part=1,facing=south": {
+      "model": "industrialcore:block/qtc_1",
+      "y": 180
+    },
+    "part=1,facing=west": {
+      "model": "industrialcore:block/qtc_1",
+      "y": 270
+    },
+    "part=2,facing=north": {
+      "model": "industrialcore:block/qtc_2"
+    },
+    "part=2,facing=east": {
+      "model": "industrialcore:block/qtc_2",
+      "y": 90
+    },
+    "part=2,facing=south": {
+      "model": "industrialcore:block/qtc_2",
+      "y": 180
+    },
+    "part=2,facing=west": {
+      "model": "industrialcore:block/qtc_2",
+      "y": 270
+    },
+    "part=3,facing=north": {
+      "model": "industrialcore:block/qtc_3"
+    },
+    "part=3,facing=east": {
+      "model": "industrialcore:block/qtc_3",
+      "y": 90
+    },
+    "part=3,facing=south": {
+      "model": "industrialcore:block/qtc_3",
+      "y": 180
+    },
+    "part=3,facing=west": {
+      "model": "industrialcore:block/qtc_3",
+      "y": 270
+    },
+    "part=4,facing=north": {
+      "model": "industrialcore:block/qtc_4"
+    },
+    "part=4,facing=east": {
+      "model": "industrialcore:block/qtc_4",
+      "y": 90
+    },
+    "part=4,facing=south": {
+      "model": "industrialcore:block/qtc_4",
+      "y": 180
+    },
+    "part=4,facing=west": {
+      "model": "industrialcore:block/qtc_4",
+      "y": 270
+    },
+    "part=5,facing=north": {
+      "model": "industrialcore:block/qtc_5"
+    },
+    "part=5,facing=east": {
+      "model": "industrialcore:block/qtc_5",
+      "y": 90
+    },
+    "part=5,facing=south": {
+      "model": "industrialcore:block/qtc_5",
+      "y": 180
+    },
+    "part=5,facing=west": {
+      "model": "industrialcore:block/qtc_5",
+      "y": 270
+    },
+    "part=6,facing=north": {
+      "model": "industrialcore:block/qtc_6"
+    },
+    "part=6,facing=east": {
+      "model": "industrialcore:block/qtc_6",
+      "y": 90
+    },
+    "part=6,facing=south": {
+      "model": "industrialcore:block/qtc_6",
+      "y": 180
+    },
+    "part=6,facing=west": {
+      "model": "industrialcore:block/qtc_6",
+      "y": 270
+    },
+    "part=7,facing=north": {
+      "model": "industrialcore:block/qtc_7"
+    },
+    "part=7,facing=east": {
+      "model": "industrialcore:block/qtc_7",
+      "y": 90
+    },
+    "part=7,facing=south": {
+      "model": "industrialcore:block/qtc_7",
+      "y": 180
+    },
+    "part=7,facing=west": {
+      "model": "industrialcore:block/qtc_7",
+      "y": 270
+    },
+    "part=8,facing=north": {
+      "model": "industrialcore:block/qtc_8"
+    },
+    "part=8,facing=east": {
+      "model": "industrialcore:block/qtc_8",
+      "y": 90
+    },
+    "part=8,facing=south": {
+      "model": "industrialcore:block/qtc_8",
+      "y": 180
+    },
+    "part=8,facing=west": {
+      "model": "industrialcore:block/qtc_8",
+      "y": 270
+    },
+    "part=9,facing=north": {
+      "model": "industrialcore:block/qtc_9"
+    },
+    "part=9,facing=east": {
+      "model": "industrialcore:block/qtc_9",
+      "y": 90
+    },
+    "part=9,facing=south": {
+      "model": "industrialcore:block/qtc_9",
+      "y": 180
+    },
+    "part=9,facing=west": {
+      "model": "industrialcore:block/qtc_9",
+      "y": 270
+    },
+    "part=10,facing=north": {
+      "model": "industrialcore:block/qtc_10"
+    },
+    "part=10,facing=east": {
+      "model": "industrialcore:block/qtc_10",
+      "y": 90
+    },
+    "part=10,facing=south": {
+      "model": "industrialcore:block/qtc_10",
+      "y": 180
+    },
+    "part=10,facing=west": {
+      "model": "industrialcore:block/qtc_10",
+      "y": 270
+    },
+    "part=11,facing=north": {
+      "model": "industrialcore:block/qtc_11"
+    },
+    "part=11,facing=east": {
+      "model": "industrialcore:block/qtc_11",
+      "y": 90
+    },
+    "part=11,facing=south": {
+      "model": "industrialcore:block/qtc_11",
+      "y": 180
+    },
+    "part=11,facing=west": {
+      "model": "industrialcore:block/qtc_11",
+      "y": 270
+    }
+  }
+}

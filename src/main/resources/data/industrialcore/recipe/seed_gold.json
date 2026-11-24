@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "industrialcore:gold_dust"
+    },
+    {
+      "item": "industrialcore:gold_dust"
+    },
+    {
+      "item": "industrialcore:gold_dust"
+    },
+    {
+      "item": "industrialcore:gold_dust"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:gold_seed",
+    "count": 1
+  }
+}

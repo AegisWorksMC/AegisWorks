@@ -1,0 +1,23 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:nebula_crystal"
+      },
+      "count": 2
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:orichalcum_ingot"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "industrialcore:resonant_catalyst",
+    "count": 4
+  },
+  "time": 200,
+  "energy": 20
+}

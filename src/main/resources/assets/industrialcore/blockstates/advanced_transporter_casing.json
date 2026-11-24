@@ -1,0 +1,184 @@
+{
+  "variants": {
+    "part=0,facing=north": {
+      "model": "industrialcore:block/advanced_casing_plain"
+    },
+    "part=0,facing=east": {
+      "model": "industrialcore:block/advanced_casing_plain",
+      "y": 90
+    },
+    "part=0,facing=south": {
+      "model": "industrialcore:block/advanced_casing_plain",
+      "y": 180
+    },
+    "part=0,facing=west": {
+      "model": "industrialcore:block/advanced_casing_plain",
+      "y": 270
+    },
+    "part=1,facing=north": {
+      "model": "industrialcore:block/advanced_casing_sill"
+    },
+    "part=1,facing=east": {
+      "model": "industrialcore:block/advanced_casing_sill",
+      "y": 90
+    },
+    "part=1,facing=south": {
+      "model": "industrialcore:block/advanced_casing_sill",
+      "y": 180
+    },
+    "part=1,facing=west": {
+      "model": "industrialcore:block/advanced_casing_sill",
+      "y": 270
+    },
+    "part=2,facing=north": {
+      "model": "industrialcore:block/advanced_casing_header"
+    },
+    "part=2,facing=east": {
+      "model": "industrialcore:block/advanced_casing_header",
+      "y": 90
+    },
+    "part=2,facing=south": {
+      "model": "industrialcore:block/advanced_casing_header",
+      "y": 180
+    },
+    "part=2,facing=west": {
+      "model": "industrialcore:block/advanced_casing_header",
+      "y": 270
+    },
+    "part=3,facing=north": {
+      "model": "industrialcore:block/advanced_casing_conveyor"
+    },
+    "part=3,facing=east": {
+      "model": "industrialcore:block/advanced_casing_conveyor",
+      "y": 90
+    },
+    "part=3,facing=south": {
+      "model": "industrialcore:block/advanced_casing_conveyor",
+      "y": 180
+    },
+    "part=3,facing=west": {
+      "model": "industrialcore:block/advanced_casing_conveyor",
+      "y": 270
+    },
+    "part=4,facing=north": {
+      "model": "industrialcore:block/advanced_casing_drive_hub"
+    },
+    "part=4,facing=east": {
+      "model": "industrialcore:block/advanced_casing_drive_hub",
+      "y": 90
+    },
+    "part=4,facing=south": {
+      "model": "industrialcore:block/advanced_casing_drive_hub",
+      "y": 180
+    },
+    "part=4,facing=west": {
+      "model": "industrialcore:block/advanced_casing_drive_hub",
+      "y": 270
+    },
+    "part=5,facing=north": {
+      "model": "industrialcore:block/advanced_casing_drive_right"
+    },
+    "part=5,facing=east": {
+      "model": "industrialcore:block/advanced_casing_drive_right",
+      "y": 90
+    },
+    "part=5,facing=south": {
+      "model": "industrialcore:block/advanced_casing_drive_right",
+      "y": 180
+    },
+    "part=5,facing=west": {
+      "model": "industrialcore:block/advanced_casing_drive_right",
+      "y": 270
+    },
+    "part=6,facing=north": {
+      "model": "industrialcore:block/advanced_casing_drive_top"
+    },
+    "part=6,facing=east": {
+      "model": "industrialcore:block/advanced_casing_drive_top",
+      "y": 90
+    },
+    "part=6,facing=south": {
+      "model": "industrialcore:block/advanced_casing_drive_top",
+      "y": 180
+    },
+    "part=6,facing=west": {
+      "model": "industrialcore:block/advanced_casing_drive_top",
+      "y": 270
+    },
+    "part=7,facing=north": {
+      "model": "industrialcore:block/advanced_casing_drive_corner"
+    },
+    "part=7,facing=east": {
+      "model": "industrialcore:block/advanced_casing_drive_corner",
+      "y": 90
+    },
+    "part=7,facing=south": {
+      "model": "industrialcore:block/advanced_casing_drive_corner",
+      "y": 180
+    },
+    "part=7,facing=west": {
+      "model": "industrialcore:block/advanced_casing_drive_corner",
+      "y": 270
+    },
+    "part=8,facing=north": {
+      "model": "industrialcore:block/advanced_casing_panel"
+    },
+    "part=8,facing=east": {
+      "model": "industrialcore:block/advanced_casing_panel",
+      "y": 90
+    },
+    "part=8,facing=south": {
+      "model": "industrialcore:block/advanced_casing_panel",
+      "y": 180
+    },
+    "part=8,facing=west": {
+      "model": "industrialcore:block/advanced_casing_panel",
+      "y": 270
+    },
+    "part=9,facing=north": {
+      "model": "industrialcore:block/advanced_casing_back"
+    },
+    "part=9,facing=east": {
+      "model": "industrialcore:block/advanced_casing_back",
+      "y": 90
+    },
+    "part=9,facing=south": {
+      "model": "industrialcore:block/advanced_casing_back",
+      "y": 180
+    },
+    "part=9,facing=west": {
+      "model": "industrialcore:block/advanced_casing_back",
+      "y": 270
+    },
+    "part=10,facing=north": {
+      "model": "industrialcore:block/advanced_casing_deck"
+    },
+    "part=10,facing=east": {
+      "model": "industrialcore:block/advanced_casing_deck",
+      "y": 90
+    },
+    "part=10,facing=south": {
+      "model": "industrialcore:block/advanced_casing_deck",
+      "y": 180
+    },
+    "part=10,facing=west": {
+      "model": "industrialcore:block/advanced_casing_deck",
+      "y": 270
+    },
+    "part=11,facing=north": {
+      "model": "industrialcore:block/advanced_casing_base"
+    },
+    "part=11,facing=east": {
+      "model": "industrialcore:block/advanced_casing_base",
+      "y": 90
+    },
+    "part=11,facing=south": {
+      "model": "industrialcore:block/advanced_casing_base",
+      "y": 180
+    },
+    "part=11,facing=west": {
+      "model": "industrialcore:block/advanced_casing_base",
+      "y": 270
+    }
+  }
+}

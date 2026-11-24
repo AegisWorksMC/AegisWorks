@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    "EFE",
+    "SMS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:auto_builder",
+    "count": 1
+  }
+}

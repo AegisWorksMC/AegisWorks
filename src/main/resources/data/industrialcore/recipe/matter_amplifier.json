@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PEP",
+    "DFD",
+    "PEP"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:iron_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:matter_amplifier",
+    "count": 1
+  }
+}

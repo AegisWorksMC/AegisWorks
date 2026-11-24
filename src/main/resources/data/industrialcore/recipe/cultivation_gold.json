@@ -1,0 +1,16 @@
+{
+  "type": "industrialcore:cultivation",
+  "ingredient": {
+    "item": "industrialcore:gold_seed"
+  },
+  "feed": {
+    "item": "industrialcore:gold_dust"
+  },
+  "result": {
+    "id": "industrialcore:gold_billet",
+    "count": 1
+  },
+  "time": 600,
+  "energy": 40,
+  "feedPerUnit": 4
+}

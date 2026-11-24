@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:virtual_chestplate"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.virtual_aegis_full.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.virtual_aegis_full.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/suit_modifier",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

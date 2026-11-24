@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    "CGC",
+    "GCG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "industrialcore:reactor_casing"
+    }
+  },
+  "result": {
+    "id": "industrialcore:reactor_glass",
+    "count": 4
+  }
+}

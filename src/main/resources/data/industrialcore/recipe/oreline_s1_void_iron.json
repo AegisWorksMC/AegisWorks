@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:raw_void_iron"
+  },
+  "result": {
+    "id": "industrialcore:void_iron_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

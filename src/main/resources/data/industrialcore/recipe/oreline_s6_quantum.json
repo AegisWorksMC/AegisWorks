@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:quantum_sorted"
+  },
+  "result": {
+    "id": "industrialcore:quantum_concentrate",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

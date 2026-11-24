@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AQA",
+    "CPC",
+    "M M"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "C": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:virtual_leggings",
+    "count": 1
+  }
+}

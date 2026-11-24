@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/advanced_item_transporter"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/advanced_item_transporter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/advanced_item_transporter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/advanced_item_transporter",
+      "y": 270
+    }
+  }
+}

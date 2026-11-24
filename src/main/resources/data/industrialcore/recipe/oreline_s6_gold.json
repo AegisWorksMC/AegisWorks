@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:gold_sorted"
+  },
+  "result": {
+    "id": "industrialcore:gold_concentrate",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

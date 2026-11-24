@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BRB",
+    "PFP",
+    "SMS"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "R": {
+      "item": "industrialcore:resonant_catalyst"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:laser_turret",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "industrialcore:phase_reactor"
+    },
+    {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    {
+      "item": "industrialcore:phase_core"
+    },
+    {
+      "item": "industrialcore:phase_core"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:ore_synthesizer",
+    "count": 1
+  }
+}

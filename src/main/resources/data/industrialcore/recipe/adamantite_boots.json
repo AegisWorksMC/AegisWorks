@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:adamantite_boots",
+    "count": 1
+  }
+}

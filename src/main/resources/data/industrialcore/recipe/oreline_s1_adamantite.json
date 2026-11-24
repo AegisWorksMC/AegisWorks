@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:raw_adamantite"
+  },
+  "result": {
+    "id": "industrialcore:adamantite_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

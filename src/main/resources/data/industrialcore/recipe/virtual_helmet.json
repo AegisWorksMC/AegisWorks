@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AQA",
+    "CPC",
+    "EBE"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "C": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:virtual_helmet",
+    "count": 1
+  }
+}

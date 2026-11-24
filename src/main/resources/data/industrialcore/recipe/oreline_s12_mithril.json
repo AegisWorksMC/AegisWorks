@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:mithril_crystallized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:mithril_homogenized",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 56
+}

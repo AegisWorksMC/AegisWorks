@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "QQQ",
+    "IMI",
+    "ERE"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "industrialcore:nuclear_generator",
+    "count": 1
+  }
+}

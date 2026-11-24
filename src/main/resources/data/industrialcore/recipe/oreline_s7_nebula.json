@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:nebula_concentrate"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "id": "industrialcore:nebula_refined",
+    "count": 32
+  },
+  "time": 10,
+  "energy": 20
+}

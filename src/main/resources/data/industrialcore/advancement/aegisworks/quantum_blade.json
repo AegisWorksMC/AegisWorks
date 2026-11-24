@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:quantum_blade"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.quantum_blade.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.quantum_blade.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/suit_modifier",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "industrialcore:quantum_blade"
+          }
+        ]
+      }
+    }
+  }
+}

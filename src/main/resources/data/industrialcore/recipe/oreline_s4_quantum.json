@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:pressing",
+  "ingredient": {
+    "item": "industrialcore:exposed_quantum"
+  },
+  "result": {
+    "id": "industrialcore:quantum_washed",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 8
+}

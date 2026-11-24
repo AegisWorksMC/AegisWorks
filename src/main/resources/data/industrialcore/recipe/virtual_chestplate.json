@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "QPQ",
+    "MBM"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "C": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:virtual_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "result": {
+    "id": "industrialcore:gold_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

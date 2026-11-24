@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:gold_homogenized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:gold_compressed",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 72
+}

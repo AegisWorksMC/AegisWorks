@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/combustion_generator"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/combustion_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/combustion_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/combustion_generator",
+      "y": 270
+    }
+  }
+}

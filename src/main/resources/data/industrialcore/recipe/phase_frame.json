@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:phase_reaction",
+  "ingredients": [
+    {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    {
+      "item": "industrialcore:astral_silver_ingot"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:durable_machine_frame",
+    "count": 1
+  },
+  "time": 300,
+  "energy": 25
+}

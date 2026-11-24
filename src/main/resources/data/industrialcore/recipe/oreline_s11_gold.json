@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:gold_micronized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:gold_crystallized",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 45
+}

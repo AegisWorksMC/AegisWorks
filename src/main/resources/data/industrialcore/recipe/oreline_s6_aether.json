@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:aether_sorted"
+  },
+  "result": {
+    "id": "industrialcore:aether_concentrate",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

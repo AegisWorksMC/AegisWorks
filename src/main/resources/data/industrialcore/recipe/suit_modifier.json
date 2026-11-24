@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QAQ",
+    "EFE",
+    "SBS"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:suit_modifier",
+    "count": 1
+  }
+}

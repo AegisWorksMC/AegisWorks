@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:phase_reaction",
+  "ingredients": [
+    {
+      "item": "industrialcore:void_iron_ingot"
+    },
+    {
+      "item": "industrialcore:quantum_shard"
+    },
+    {
+      "item": "industrialcore:aether_crystal"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:phase_core",
+    "count": 1
+  },
+  "time": 400,
+  "energy": 40
+}

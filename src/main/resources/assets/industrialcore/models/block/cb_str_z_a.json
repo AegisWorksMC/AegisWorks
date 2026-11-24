@@ -1,0 +1,259 @@
+{
+  "textures": {
+    "particle": "industrialcore:block/conduit_frame",
+    "frame": "industrialcore:block/conduit_frame",
+    "core": "industrialcore:block/cable_core_a"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        6,
+        0
+      ],
+      "to": [
+        6.5,
+        6.5,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            6,
+            16,
+            6.5
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            6,
+            16,
+            6.5
+          ]
+        },
+        "up": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        9.5,
+        0
+      ],
+      "to": [
+        6.5,
+        10,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            9.5,
+            16,
+            10
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            9.5,
+            16,
+            10
+          ]
+        },
+        "up": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        6.5,
+        0
+      ],
+      "to": [
+        9.5,
+        9.5,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#core",
+          "uv": [
+            0,
+            6.5,
+            16,
+            9.5
+          ]
+        },
+        "west": {
+          "texture": "#core",
+          "uv": [
+            0,
+            6.5,
+            16,
+            9.5
+          ]
+        },
+        "up": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        6,
+        0
+      ],
+      "to": [
+        10,
+        6.5,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            6,
+            16,
+            6.5
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            6,
+            16,
+            6.5
+          ]
+        },
+        "up": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        9.5,
+        0
+      ],
+      "to": [
+        10,
+        10,
+        16
+      ],
+      "faces": {
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            9.5,
+            16,
+            10
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            0,
+            9.5,
+            16,
+            10
+          ]
+        },
+        "up": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        }
+      }
+    }
+  ]
+}

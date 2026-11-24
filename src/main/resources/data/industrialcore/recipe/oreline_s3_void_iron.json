@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:precision_crushing",
+  "ingredient": {
+    "item": "industrialcore:pure_void_iron"
+  },
+  "result": {
+    "id": "industrialcore:exposed_void_iron",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 15
+}

@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:copper_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_copper",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

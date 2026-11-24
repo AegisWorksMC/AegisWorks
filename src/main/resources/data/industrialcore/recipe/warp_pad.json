@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AQA",
+    "EFE",
+    "OBO"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "Q": {
+      "item": "minecraft:ender_eye"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:warp_pad",
+    "count": 1
+  }
+}

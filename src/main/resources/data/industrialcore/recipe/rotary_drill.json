@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "EFE",
+    "MBM"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "industrialcore:rotary_drill",
+    "count": 1
+  }
+}

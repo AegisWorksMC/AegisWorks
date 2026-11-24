@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PNP",
+    "AEA",
+    "QBQ"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "E": {
+      "item": "industrialcore:energy_buffer_mk3"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "B": {
+      "item": "industrialcore:reinforced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:singularity_reactor",
+    "count": 1
+  }
+}

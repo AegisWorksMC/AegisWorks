@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:suit_modifier"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.suit_modifier.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.suit_modifier.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/quantum_storage",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

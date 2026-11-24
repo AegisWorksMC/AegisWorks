@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ICI",
+    "FMF",
+    "ICI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:basic_item_transporter",
+    "count": 1
+  }
+}

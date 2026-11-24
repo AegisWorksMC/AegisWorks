@@ -1,0 +1,259 @@
+{
+  "textures": {
+    "particle": "industrialcore:block/conduit_frame",
+    "frame": "industrialcore:block/conduit_frame",
+    "core": "industrialcore:block/cable_core_u"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        6
+      ],
+      "to": [
+        6.5,
+        16,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        0,
+        9.5
+      ],
+      "to": [
+        6.5,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        6.5,
+        0,
+        6.5
+      ],
+      "to": [
+        9.5,
+        16,
+        9.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#core",
+          "uv": [
+            6.5,
+            0,
+            9.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        0,
+        6
+      ],
+      "to": [
+        10,
+        16,
+        6.5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            6,
+            0,
+            6.5,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        9.5,
+        0,
+        9.5
+      ],
+      "to": [
+        10,
+        16,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            0,
+            10,
+            16
+          ]
+        }
+      }
+    }
+  ]
+}

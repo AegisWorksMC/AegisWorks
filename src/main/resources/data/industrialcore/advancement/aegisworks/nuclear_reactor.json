@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:nuclear_generator"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.nuclear_reactor.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.nuclear_reactor.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/fluid_pump",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

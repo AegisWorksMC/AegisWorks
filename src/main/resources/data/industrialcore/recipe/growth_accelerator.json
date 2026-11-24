@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "MFM",
+    "CBC"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "C": {
+      "item": "industrialcore:resonant_catalyst"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    }
+  },
+  "result": {
+    "id": "industrialcore:growth_accelerator",
+    "count": 1
+  }
+}

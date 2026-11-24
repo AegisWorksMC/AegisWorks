@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PCP",
+    "KEK",
+    "PAP"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:iron_plate"
+    },
+    "C": {
+      "item": "industrialcore:resonant_catalyst"
+    },
+    "K": {
+      "item": "industrialcore:phase_core"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "A": {
+      "item": "industrialcore:astral_silver_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:matter_amplifier",
+    "count": 1
+  }
+}

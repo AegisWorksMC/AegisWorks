@@ -1,0 +1,260 @@
+{
+  "textures": {
+    "particle": "industrialcore:block/tc_plate",
+    "plate": "industrialcore:block/tc_plate",
+    "beam": "industrialcore:block/tc_beam",
+    "belt": "industrialcore:block/tc_belt",
+    "louver": "industrialcore:block/tc_louver",
+    "boss": "industrialcore:block/tc_boss",
+    "deck": "industrialcore:block/tc_deck",
+    "led": "industrialcore:block/tc_led"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        1,
+        2
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            16,
+            1
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            16,
+            2
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        2
+      ],
+      "to": [
+        2,
+        1,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            2,
+            0,
+            16,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            2,
+            2,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#plate",
+          "uv": [
+            0,
+            1,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#plate",
+          "uv": [
+            0,
+            1,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#plate",
+          "uv": [
+            0,
+            1,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#plate",
+          "uv": [
+            0,
+            1,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": "#plate",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        1,
+        14
+      ],
+      "faces": {
+        "down": {
+          "texture": "#boss",
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        0,
+        14
+      ],
+      "to": [
+        16,
+        1,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#beam",
+          "uv": [
+            2,
+            0,
+            16,
+            1
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            14,
+            0,
+            16,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            2,
+            14,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        14,
+        0,
+        2
+      ],
+      "to": [
+        16,
+        1,
+        14
+      ],
+      "faces": {
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            2,
+            0,
+            14,
+            1
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            14,
+            2,
+            16,
+            14
+          ]
+        }
+      }
+    }
+  ]
+}

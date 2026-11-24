@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:astral_silver_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_astral_silver",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

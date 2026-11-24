@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:assembling",
+  "ingredients": [
+    {
+      "item": "industrialcore:machine_frame"
+    },
+    {
+      "item": "industrialcore:steel_plate"
+    },
+    {
+      "item": "industrialcore:brass_plate"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:reinforced_machine_frame",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 15
+}

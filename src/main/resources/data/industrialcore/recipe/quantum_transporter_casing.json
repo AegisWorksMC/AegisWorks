@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SAS",
+    "OVO",
+    "SAS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "A": {
+      "item": "industrialcore:astral_silver_ingot"
+    },
+    "O": {
+      "item": "industrialcore:orichalcum_ingot"
+    },
+    "V": {
+      "item": "industrialcore:void_iron_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:quantum_transporter_casing",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/item_distributor"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/item_distributor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/item_distributor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/item_distributor",
+      "y": 270
+    }
+  }
+}

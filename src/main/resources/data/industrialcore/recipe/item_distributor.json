@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ECE",
+    "IMI",
+    "IRI"
+  ],
+  "key": {
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "C": {
+      "item": "industrialcore:copper_plate"
+    },
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "industrialcore:item_distributor",
+    "count": 1
+  }
+}

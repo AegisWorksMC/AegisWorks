@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EQE",
+    "QCQ",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "C": {
+      "item": "industrialcore:phase_core"
+    },
+    "P": {
+      "item": "industrialcore:steel_plate"
+    }
+  },
+  "result": {
+    "id": "industrialcore:mod_shield",
+    "count": 1
+  }
+}

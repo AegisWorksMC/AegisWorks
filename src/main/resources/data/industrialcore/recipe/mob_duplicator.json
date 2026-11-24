@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QMQ",
+    "PFP",
+    "ACA"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "C": {
+      "item": "industrialcore:mob_capsule"
+    }
+  },
+  "result": {
+    "id": "industrialcore:mob_duplicator",
+    "count": 1
+  }
+}

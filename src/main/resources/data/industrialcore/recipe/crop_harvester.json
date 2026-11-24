@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IHI",
+    "EFE",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "H": {
+      "item": "minecraft:iron_hoe"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "R": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "id": "industrialcore:crop_harvester",
+    "count": 1
+  }
+}

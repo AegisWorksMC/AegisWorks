@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:phase_core"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.limit_break_lv100.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.limit_break_lv100.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/machine_lv50",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

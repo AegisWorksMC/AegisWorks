@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/quantum_transporter_array"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/quantum_transporter_array",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/quantum_transporter_array",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/quantum_transporter_array",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EGE",
+    "HFH",
+    "ECE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "C": {
+      "item": "industrialcore:electronic_component"
+    }
+  },
+  "result": {
+    "id": "industrialcore:xp_collector",
+    "count": 1
+  }
+}

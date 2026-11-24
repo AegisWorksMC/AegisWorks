@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EPE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "B": {
+      "item": "industrialcore:nebula_crystal"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_gravity_arrow",
+    "count": 1
+  }
+}

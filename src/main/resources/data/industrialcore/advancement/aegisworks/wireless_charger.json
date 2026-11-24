@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:wireless_charger"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.wireless_charger.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.wireless_charger.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/energy_buffer_mk2",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

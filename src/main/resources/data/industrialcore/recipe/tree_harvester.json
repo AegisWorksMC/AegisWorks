@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "MFM",
+    "ERE"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "R": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "id": "industrialcore:tree_harvester",
+    "count": 1
+  }
+}

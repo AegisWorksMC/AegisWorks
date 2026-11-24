@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Q Q",
+    "APA",
+    "MBM"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:virtual_boots",
+    "count": 1
+  }
+}

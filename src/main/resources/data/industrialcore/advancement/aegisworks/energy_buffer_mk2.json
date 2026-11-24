@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:energy_buffer_mk2"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.energy_buffer_mk2.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.energy_buffer_mk2.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/metal_press",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

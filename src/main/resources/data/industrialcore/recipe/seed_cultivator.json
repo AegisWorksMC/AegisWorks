@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GPR",
+    "GFG",
+    "RPG"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:iron_plate"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "industrialcore:seed_cultivator",
+    "count": 1
+  }
+}

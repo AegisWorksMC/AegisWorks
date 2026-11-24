@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:aether_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_aether",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

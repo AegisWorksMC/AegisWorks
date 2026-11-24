@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:pressing",
+  "ingredient": {
+    "item": "industrialcore:exposed_astral_silver"
+  },
+  "result": {
+    "id": "industrialcore:astral_silver_washed",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 8
+}

@@ -1,0 +1,274 @@
+{
+  "variants": {
+    "part=0,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_0"
+    },
+    "part=0,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_0",
+      "y": 90
+    },
+    "part=0,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_0",
+      "y": 180
+    },
+    "part=0,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_0",
+      "y": 270
+    },
+    "part=1,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_1"
+    },
+    "part=1,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_1",
+      "y": 90
+    },
+    "part=1,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_1",
+      "y": 180
+    },
+    "part=1,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_1",
+      "y": 270
+    },
+    "part=2,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_2"
+    },
+    "part=2,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_2",
+      "y": 90
+    },
+    "part=2,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_2",
+      "y": 180
+    },
+    "part=2,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_2",
+      "y": 270
+    },
+    "part=3,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_3"
+    },
+    "part=3,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_3",
+      "y": 90
+    },
+    "part=3,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_3",
+      "y": 180
+    },
+    "part=3,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_3",
+      "y": 270
+    },
+    "part=4,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_4"
+    },
+    "part=4,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_4",
+      "y": 90
+    },
+    "part=4,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_4",
+      "y": 180
+    },
+    "part=4,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_4",
+      "y": 270
+    },
+    "part=5,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_5"
+    },
+    "part=5,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_5",
+      "y": 90
+    },
+    "part=5,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_5",
+      "y": 180
+    },
+    "part=5,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_5",
+      "y": 270
+    },
+    "part=6,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_6"
+    },
+    "part=6,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_6",
+      "y": 90
+    },
+    "part=6,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_6",
+      "y": 180
+    },
+    "part=6,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_6",
+      "y": 270
+    },
+    "part=7,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_7"
+    },
+    "part=7,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_7",
+      "y": 90
+    },
+    "part=7,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_7",
+      "y": 180
+    },
+    "part=7,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_7",
+      "y": 270
+    },
+    "part=8,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_8"
+    },
+    "part=8,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_8",
+      "y": 90
+    },
+    "part=8,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_8",
+      "y": 180
+    },
+    "part=8,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_8",
+      "y": 270
+    },
+    "part=9,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_9"
+    },
+    "part=9,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_9",
+      "y": 90
+    },
+    "part=9,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_9",
+      "y": 180
+    },
+    "part=9,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_9",
+      "y": 270
+    },
+    "part=10,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_10"
+    },
+    "part=10,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_10",
+      "y": 90
+    },
+    "part=10,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_10",
+      "y": 180
+    },
+    "part=10,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_10",
+      "y": 270
+    },
+    "part=11,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_11"
+    },
+    "part=11,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_11",
+      "y": 90
+    },
+    "part=11,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_11",
+      "y": 180
+    },
+    "part=11,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_11",
+      "y": 270
+    },
+    "part=12,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_12"
+    },
+    "part=12,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_12",
+      "y": 90
+    },
+    "part=12,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_12",
+      "y": 180
+    },
+    "part=12,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_12",
+      "y": 270
+    },
+    "part=13,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_13"
+    },
+    "part=13,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_13",
+      "y": 90
+    },
+    "part=13,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_13",
+      "y": 180
+    },
+    "part=13,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_13",
+      "y": 270
+    },
+    "part=14,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_14"
+    },
+    "part=14,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_14",
+      "y": 90
+    },
+    "part=14,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_14",
+      "y": 180
+    },
+    "part=14,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_14",
+      "y": 270
+    },
+    "part=15,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_15"
+    },
+    "part=15,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_15",
+      "y": 90
+    },
+    "part=15,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_15",
+      "y": 180
+    },
+    "part=15,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_15",
+      "y": 270
+    },
+    "part=16,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_16"
+    },
+    "part=16,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_16",
+      "y": 90
+    },
+    "part=16,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_16",
+      "y": 180
+    },
+    "part=16,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_16",
+      "y": 270
+    },
+    "part=17,facing=north": {
+      "model": "industrialcore:block/advanced_transporter_part_17"
+    },
+    "part=17,facing=east": {
+      "model": "industrialcore:block/advanced_transporter_part_17",
+      "y": 90
+    },
+    "part=17,facing=south": {
+      "model": "industrialcore:block/advanced_transporter_part_17",
+      "y": 180
+    },
+    "part=17,facing=west": {
+      "model": "industrialcore:block/advanced_transporter_part_17",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "industrialcore:energy_buffer_mk2"
+    },
+    {
+      "item": "industrialcore:energy_buffer_mk2"
+    },
+    {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    {
+      "item": "industrialcore:phase_core"
+    },
+    {
+      "item": "industrialcore:resonant_catalyst"
+    },
+    {
+      "item": "industrialcore:resonant_catalyst"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:energy_buffer_mk3",
+    "count": 1
+  }
+}

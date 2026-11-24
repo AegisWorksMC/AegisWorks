@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:specialization_module"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.specialization_master.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.specialization_master.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/machine_lv50",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

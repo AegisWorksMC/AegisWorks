@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "GFG",
+    "SMS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:fluid_pump",
+    "count": 1
+  }
+}

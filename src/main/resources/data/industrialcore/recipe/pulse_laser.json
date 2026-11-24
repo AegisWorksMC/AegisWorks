@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QCA",
+    "EBP",
+    "S S"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "C": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "S": {
+      "item": "industrialcore:steel_plate"
+    }
+  },
+  "result": {
+    "id": "industrialcore:pulse_laser",
+    "count": 1
+  }
+}

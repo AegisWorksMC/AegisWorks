@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:pressing",
+  "ingredient": {
+    "item": "industrialcore:exposed_copper"
+  },
+  "result": {
+    "id": "industrialcore:copper_washed",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 8
+}

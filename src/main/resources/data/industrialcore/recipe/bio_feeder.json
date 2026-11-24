@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MAM",
+    "PFP",
+    "KRK"
+  ],
+  "key": {
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "A": {
+      "item": "minecraft:golden_apple"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "K": {
+      "item": "minecraft:golden_carrot"
+    },
+    "R": {
+      "item": "industrialcore:resonant_catalyst"
+    }
+  },
+  "result": {
+    "id": "industrialcore:bio_feeder",
+    "count": 1
+  }
+}

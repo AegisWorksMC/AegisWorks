@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "OMO",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "O": {
+      "item": "industrialcore:orichalcum_ingot"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "industrialcore:orichalcum_pickaxe",
+    "count": 1
+  }
+}

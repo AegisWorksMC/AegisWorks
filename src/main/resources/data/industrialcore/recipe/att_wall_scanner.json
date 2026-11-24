@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "ECE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "C": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_wall_scanner",
+    "count": 1
+  }
+}

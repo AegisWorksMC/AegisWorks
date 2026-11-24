@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:assembling",
+  "ingredients": [
+    {
+      "item": "industrialcore:copper_plate"
+    },
+    {
+      "item": "industrialcore:gold_plate"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:electronic_component",
+    "count": 2
+  },
+  "time": 120,
+  "energy": 10
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "BFB"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "B": {
+      "item": "minecraft:brick"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "id": "industrialcore:alloy_furnace",
+    "count": 1
+  }
+}

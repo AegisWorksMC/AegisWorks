@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "AAA",
+    "AFA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:adamantite_chestplate",
+    "count": 1
+  }
+}

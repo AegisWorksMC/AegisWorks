@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SFS",
+    "FMF",
+    "CRC"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "F": {
+      "item": "industrialcore:iron_plate"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    },
+    "C": {
+      "item": "industrialcore:copper_plate"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "id": "industrialcore:assembler",
+    "count": 1
+  }
+}

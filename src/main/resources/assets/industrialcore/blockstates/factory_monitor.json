@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/factory_monitor"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/factory_monitor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/factory_monitor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/factory_monitor",
+      "y": 270
+    }
+  }
+}

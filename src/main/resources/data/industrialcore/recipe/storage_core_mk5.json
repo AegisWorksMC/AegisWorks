@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AUA",
+    "PCP",
+    "ANA"
+  ],
+  "key": {
+    "A": { "item": "industrialcore:adamantite_ingot" },
+    "U": { "item": "industrialcore:synthetic_ore_ultimate" },
+    "P": { "item": "industrialcore:phase_core" },
+    "C": { "item": "industrialcore:storage_core_mk4" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "id": "industrialcore:storage_core_mk5",
+    "count": 1
+  }
+}

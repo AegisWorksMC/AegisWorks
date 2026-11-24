@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SFS",
+    "FQF",
+    "SFS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "Q": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:large_quarry",
+    "count": 1
+  }
+}

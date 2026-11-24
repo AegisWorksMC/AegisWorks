@@ -1,0 +1,19 @@
+{
+  "type": "industrialcore:amplification",
+  "ingredient": {
+    "item": "industrialcore:iron_billet"
+  },
+  "catalyst": {
+    "item": "industrialcore:reconstruction_crystal"
+  },
+  "result": {
+    "id": "minecraft:iron_ore",
+    "count": 2
+  },
+  "secondary": {
+    "id": "industrialcore:iron_dust",
+    "count": 4
+  },
+  "time": 1200,
+  "energy": 60
+}

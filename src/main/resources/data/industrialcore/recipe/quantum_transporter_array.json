@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AXA",
+    "CTF",
+    "NPN"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "X": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "F": {
+      "item": "industrialcore:durable_machine_frame"
+    },
+    "T": {
+      "item": "industrialcore:quantum_transporter"
+    },
+    "N": {
+      "item": "industrialcore:nebula_crystal"
+    },
+    "C": {
+      "item": "industrialcore:quantum_compressor"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:quantum_transporter_array",
+    "count": 1
+  }
+}

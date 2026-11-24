@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:railgun"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.railgun.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.railgun.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/suit_modifier",
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "industrialcore:railgun"
+          }
+        ]
+      }
+    }
+  }
+}

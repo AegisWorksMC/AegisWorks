@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:orichalcum_refined"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:orichalcum_separated",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 24
+}

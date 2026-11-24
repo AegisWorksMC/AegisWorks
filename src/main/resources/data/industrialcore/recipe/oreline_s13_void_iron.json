@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:void_iron_homogenized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:void_iron_compressed",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 72
+}

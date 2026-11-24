@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EAE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "industrialcore:nebula_crystal"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_prism_lens",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EPE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "industrialcore:quantum_shard"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_blink_drive",
+    "count": 1
+  }
+}

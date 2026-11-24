@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IFI",
+    "EME",
+    "IHI"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "F": {
+      "item": "minecraft:fishing_rod"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "id": "industrialcore:auto_fisher",
+    "count": 1
+  }
+}

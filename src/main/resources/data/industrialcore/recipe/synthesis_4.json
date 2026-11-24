@@ -1,0 +1,29 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:synthetic_ore_3"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:void_iron_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:reconstruction_crystal"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "industrialcore:synthetic_ore_4",
+    "count": 1
+  },
+  "time": 10,
+  "energy": 20
+}

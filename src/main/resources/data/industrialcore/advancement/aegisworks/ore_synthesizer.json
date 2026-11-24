@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:ore_synthesizer"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.ore_synthesizer.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.ore_synthesizer.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/phase_reactor",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

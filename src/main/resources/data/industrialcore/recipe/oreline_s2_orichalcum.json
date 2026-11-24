@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:orichalcum_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_orichalcum",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

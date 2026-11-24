@@ -1,0 +1,23 @@
+{
+  "parent": "industrialcore:aegisworks/singularity_reactor",
+  "display": {
+    "icon": {
+      "id": "industrialcore:laser_turret"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.dimension_defender.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.dimension_defender.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

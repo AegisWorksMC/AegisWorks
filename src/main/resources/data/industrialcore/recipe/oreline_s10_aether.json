@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:aether_high_purity"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:aether_micronized",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 36
+}

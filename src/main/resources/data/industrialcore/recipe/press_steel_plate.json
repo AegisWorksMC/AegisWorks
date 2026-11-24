@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:pressing",
+  "ingredient": {
+    "item": "industrialcore:steel_ingot"
+  },
+  "result": {
+    "id": "industrialcore:steel_plate",
+    "count": 1
+  },
+  "time": 80,
+  "energy": 10
+}

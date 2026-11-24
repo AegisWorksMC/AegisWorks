@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/quantum_storage_core"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/quantum_storage_core",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/quantum_storage_core",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/quantum_storage_core",
+      "y": 270
+    }
+  }
+}

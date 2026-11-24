@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EBE",
+    "SMS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_fast_capacitor",
+    "count": 1
+  }
+}

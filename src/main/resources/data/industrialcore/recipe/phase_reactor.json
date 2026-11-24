@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "QNQ",
+    "VFV",
+    "QAQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "N": {
+      "item": "industrialcore:nebula_crystal"
+    },
+    "V": {
+      "item": "industrialcore:void_iron_ingot"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:phase_reactor",
+    "count": 1
+  }
+}

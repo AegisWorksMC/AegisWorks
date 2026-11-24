@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OPO",
+    "DCD",
+    "OPO"
+  ],
+  "key": {
+    "O": { "item": "industrialcore:orichalcum_ingot" },
+    "P": { "item": "industrialcore:phase_core" },
+    "D": { "item": "industrialcore:durable_machine_frame" },
+    "C": { "item": "industrialcore:storage_core_mk3" }
+  },
+  "result": {
+    "id": "industrialcore:storage_core_mk4",
+    "count": 1
+  }
+}

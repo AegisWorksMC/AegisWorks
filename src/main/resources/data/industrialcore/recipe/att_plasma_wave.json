@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "ENE",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "N": {
+      "item": "industrialcore:nebula_crystal"
+    },
+    "B": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_plasma_wave",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MDM",
+    "FCF",
+    "MDM"
+  ],
+  "key": {
+    "M": { "item": "industrialcore:mithril_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "F": { "item": "industrialcore:reinforced_machine_frame" },
+    "C": { "item": "industrialcore:storage_core_mk2" }
+  },
+  "result": {
+    "id": "industrialcore:storage_core_mk3",
+    "count": 1
+  }
+}

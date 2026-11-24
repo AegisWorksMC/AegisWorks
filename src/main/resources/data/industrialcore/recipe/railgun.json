@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "MBP",
+    "OES"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:adamantite_ingot"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "O": {
+      "item": "industrialcore:orichalcum_ingot"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "S": {
+      "item": "industrialcore:steel_plate"
+    }
+  },
+  "result": {
+    "id": "industrialcore:railgun",
+    "count": 1
+  }
+}

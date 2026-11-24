@@ -1,0 +1,29 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:synthetic_ore_high_density"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:astral_silver_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:reconstruction_crystal"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "industrialcore:synthetic_ore_unstable_ultimate",
+    "count": 1
+  },
+  "time": 10,
+  "energy": 40
+}

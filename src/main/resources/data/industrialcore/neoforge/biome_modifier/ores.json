@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "industrialcore:as_ore",
+    "industrialcore:mi_ore",
+    "industrialcore:nc_ore",
+    "industrialcore:or_ore",
+    "industrialcore:qu_ore",
+    "industrialcore:ad_ore",
+    "industrialcore:ae_ore",
+    "industrialcore:vi_ore"
+  ],
+  "step": "underground_ores"
+}

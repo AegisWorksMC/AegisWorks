@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CQC",
+    "APA",
+    "CQC"
+  ],
+  "key": {
+    "C": {
+      "item": "industrialcore:cable_ultimate"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:hyper_energy_conduit",
+    "count": 16
+  }
+}

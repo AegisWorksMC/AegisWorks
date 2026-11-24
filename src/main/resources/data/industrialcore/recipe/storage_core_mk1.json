@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "ECE",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "industrialcore:iron_plate" },
+    "E": { "item": "industrialcore:electronic_component" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": {
+    "id": "industrialcore:storage_core_mk1",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "EME",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "industrialcore:steel_plate"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    },
+    "B": {
+      "item": "industrialcore:adamantite_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:att_recoil_gyro",
+    "count": 1
+  }
+}

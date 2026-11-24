@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PUP",
+    "PUP",
+    "PUP"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:steel_plate"
+    },
+    "U": {
+      "item": "industrialcore:enriched_uranium"
+    }
+  },
+  "result": {
+    "id": "industrialcore:uranium_fuel_rod",
+    "count": 1
+  }
+}

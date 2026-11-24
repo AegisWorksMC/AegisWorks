@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:adamantite_homogenized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:adamantite_compressed",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 72
+}

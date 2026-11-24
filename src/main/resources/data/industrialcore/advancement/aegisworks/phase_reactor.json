@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:phase_reactor"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.phase_reactor.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.phase_reactor.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/singularity_reactor",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

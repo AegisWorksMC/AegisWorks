@@ -1,0 +1,16 @@
+{
+  "type": "industrialcore:cultivation",
+  "ingredient": {
+    "item": "industrialcore:iron_seed"
+  },
+  "feed": {
+    "item": "industrialcore:iron_dust"
+  },
+  "result": {
+    "id": "industrialcore:iron_billet",
+    "count": 1
+  },
+  "time": 600,
+  "energy": 40,
+  "feedPerUnit": 4
+}

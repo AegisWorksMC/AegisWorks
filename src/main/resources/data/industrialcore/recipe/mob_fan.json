@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "MFM",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:iron_plate"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "M": {
+      "item": "industrialcore:motor"
+    },
+    "F": {
+      "item": "industrialcore:machine_frame"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "industrialcore:mob_fan",
+    "count": 1
+  }
+}

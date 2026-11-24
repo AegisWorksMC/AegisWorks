@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  Q",
+    " N ",
+    "EBP"
+  ],
+  "key": {
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "N": {
+      "item": "industrialcore:nebula_crystal"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:quantum_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "low_pad=false": {
+      "model": "industrialcore:block/machine_bounding"
+    },
+    "low_pad=true": {
+      "model": "industrialcore:block/machine_bounding"
+    }
+  }
+}

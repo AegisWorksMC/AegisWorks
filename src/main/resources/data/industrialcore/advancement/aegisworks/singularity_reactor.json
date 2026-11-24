@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:singularity_reactor"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.singularity_reactor.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.singularity_reactor.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/nuclear_reactor",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

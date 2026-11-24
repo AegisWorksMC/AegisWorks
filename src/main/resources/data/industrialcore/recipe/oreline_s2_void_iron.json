@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:void_iron_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_void_iron",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

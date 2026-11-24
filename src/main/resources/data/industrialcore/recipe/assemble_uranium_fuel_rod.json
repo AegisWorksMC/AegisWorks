@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:assembling",
+  "ingredients": [
+    {
+      "item": "industrialcore:enriched_uranium"
+    },
+    {
+      "item": "industrialcore:steel_plate"
+    },
+    {
+      "item": "industrialcore:copper_plate"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:uranium_fuel_rod",
+    "count": 2
+  },
+  "time": 140,
+  "energy": 20
+}

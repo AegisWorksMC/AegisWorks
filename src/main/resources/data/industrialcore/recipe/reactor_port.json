@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CRC",
+    "RER",
+    "CHC"
+  ],
+  "key": {
+    "C": {
+      "item": "industrialcore:reactor_casing"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "id": "industrialcore:reactor_port",
+    "count": 2
+  }
+}

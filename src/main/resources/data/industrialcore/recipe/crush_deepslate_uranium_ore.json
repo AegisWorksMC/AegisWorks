@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:deepslate_uranium_ore"
+  },
+  "result": {
+    "id": "industrialcore:uranium_dust",
+    "count": 2
+  },
+  "time": 120,
+  "energy": 12
+}

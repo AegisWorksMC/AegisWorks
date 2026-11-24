@@ -1,0 +1,20 @@
+{
+  "type": "industrialcore:phase_reaction",
+  "ingredients": [
+    {
+      "item": "industrialcore:mithril_ingot"
+    },
+    {
+      "item": "industrialcore:mithril_ingot"
+    },
+    {
+      "item": "industrialcore:orichalcum_ingot"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:high_power_motor",
+    "count": 1
+  },
+  "time": 300,
+  "energy": 25
+}

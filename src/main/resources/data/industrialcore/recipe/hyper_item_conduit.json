@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IQI",
+    "APA",
+    "IQI"
+  ],
+  "key": {
+    "I": {
+      "item": "industrialcore:pipe_ultimate"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    }
+  },
+  "result": {
+    "id": "industrialcore:hyper_item_conduit",
+    "count": 16
+  }
+}

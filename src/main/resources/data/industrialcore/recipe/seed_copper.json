@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "industrialcore:copper_dust"
+    },
+    {
+      "item": "industrialcore:copper_dust"
+    },
+    {
+      "item": "industrialcore:copper_dust"
+    },
+    {
+      "item": "industrialcore:copper_dust"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "id": "industrialcore:copper_seed",
+    "count": 1
+  }
+}

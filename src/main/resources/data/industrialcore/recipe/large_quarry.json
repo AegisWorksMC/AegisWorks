@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RER",
+    "CMC",
+    "ESE"
+  ],
+  "key": {
+    "R": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "C": {
+      "item": "industrialcore:steel_plate"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    },
+    "S": {
+      "item": "industrialcore:iron_plate"
+    }
+  },
+  "result": {
+    "id": "industrialcore:large_quarry",
+    "count": 1
+  }
+}

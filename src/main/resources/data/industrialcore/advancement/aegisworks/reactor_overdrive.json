@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:uranium_fuel_rod"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.reactor_overdrive.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.reactor_overdrive.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/nuclear_reactor",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

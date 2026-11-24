@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:nebula_crystal"
+  },
+  "result": {
+    "id": "industrialcore:nebula_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

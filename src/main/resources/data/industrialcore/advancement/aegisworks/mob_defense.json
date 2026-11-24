@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:spawn_suppressor"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.mob_defense.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.mob_defense.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/wireless_charger",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

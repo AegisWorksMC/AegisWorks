@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EQE",
+    "QCQ",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "C": {
+      "item": "minecraft:golden_carrot"
+    },
+    "P": {
+      "item": "industrialcore:steel_plate"
+    }
+  },
+  "result": {
+    "id": "industrialcore:mod_vision",
+    "count": 1
+  }
+}

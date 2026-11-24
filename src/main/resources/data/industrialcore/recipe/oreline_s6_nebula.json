@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:nebula_sorted"
+  },
+  "result": {
+    "id": "industrialcore:nebula_concentrate",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

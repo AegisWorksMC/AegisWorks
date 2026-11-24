@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:iron_washed"
+  },
+  "result": {
+    "id": "industrialcore:iron_sorted",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

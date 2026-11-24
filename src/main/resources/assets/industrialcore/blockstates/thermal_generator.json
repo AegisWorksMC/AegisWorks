@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "industrialcore:block/thermal_generator"
+    },
+    "facing=east": {
+      "model": "industrialcore:block/thermal_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "industrialcore:block/thermal_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "industrialcore:block/thermal_generator",
+      "y": 270
+    }
+  }
+}

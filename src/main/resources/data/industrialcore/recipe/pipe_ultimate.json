@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "PNP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "industrialcore:pipe_advanced"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:pipe_ultimate",
+    "count": 4
+  }
+}

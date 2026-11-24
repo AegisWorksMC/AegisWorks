@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CIC",
+    "IMI",
+    "CIC"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:pressure_recovery",
+    "count": 1
+  }
+}

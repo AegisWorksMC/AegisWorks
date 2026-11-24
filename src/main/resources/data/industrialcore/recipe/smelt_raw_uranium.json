@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "industrialcore:raw_uranium"
+  },
+  "result": {
+    "id": "industrialcore:enriched_uranium",
+    "count": 1
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:void_iron_stabilized"
+      },
+      "count": 32
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:synthetic_ore_ultimate"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "industrialcore:void_iron_ingot",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 120
+}

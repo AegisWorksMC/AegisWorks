@@ -1,0 +1,77 @@
+{
+  "textures": {
+    "particle": "industrialcore:block/conduit_frame",
+    "frame": "industrialcore:block/conduit_frame",
+    "core": "industrialcore:block/cable_core_b"
+  },
+  "elements": [
+    {
+      "from": [
+        6.5,
+        6.5,
+        9.5
+      ],
+      "to": [
+        9.5,
+        9.5,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#frame",
+          "uv": [
+            6.5,
+            6.5,
+            9.5,
+            9.5
+          ]
+        },
+        "south": {
+          "texture": "#frame",
+          "uv": [
+            6.5,
+            6.5,
+            9.5,
+            9.5
+          ]
+        },
+        "east": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            6.5,
+            10,
+            9.5
+          ]
+        },
+        "west": {
+          "texture": "#frame",
+          "uv": [
+            9.5,
+            6.5,
+            10,
+            9.5
+          ]
+        },
+        "up": {
+          "texture": "#frame",
+          "uv": [
+            6.5,
+            9.5,
+            9.5,
+            10
+          ]
+        },
+        "down": {
+          "texture": "#frame",
+          "uv": [
+            6.5,
+            9.5,
+            9.5,
+            10
+          ]
+        }
+      }
+    }
+  ]
+}

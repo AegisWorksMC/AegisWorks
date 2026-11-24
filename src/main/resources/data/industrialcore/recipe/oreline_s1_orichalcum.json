@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:crushing",
+  "ingredient": {
+    "item": "industrialcore:raw_orichalcum"
+  },
+  "result": {
+    "id": "industrialcore:orichalcum_dust",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 10
+}

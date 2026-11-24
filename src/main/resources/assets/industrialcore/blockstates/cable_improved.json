@@ -1,0 +1,983 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "west": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_str_x_i"
+      }
+    },
+    {
+      "when": {
+        "down": "true",
+        "up": "true",
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_str_y_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "south": "true",
+        "east": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_str_z_i"
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "up": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_core_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_down_i"
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_up_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_north_i"
+      }
+    },
+    {
+      "when": {
+        "south": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_south_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "south": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_south_i"
+      }
+    },
+    {
+      "when": {
+        "west": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_west_i"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "west": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_west_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cable_arm_east_i"
+      }
+    },
+    {
+      "when": {
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_down_i"
+      }
+    },
+    {
+      "when": {
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_up_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "south": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_north_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "south": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "up": "true",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_south_i"
+      }
+    },
+    {
+      "when": {
+        "east": "true",
+        "west": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "west": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "west": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_west_i"
+      }
+    },
+    {
+      "when": {
+        "east": "false",
+        "west": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "west": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "west": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "up": "true",
+        "down": "false"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "up": "false",
+        "down": "true"
+      },
+      "apply": {
+        "model": "industrialcore:block/cb_cap_east_i"
+      }
+    }
+  ]
+}

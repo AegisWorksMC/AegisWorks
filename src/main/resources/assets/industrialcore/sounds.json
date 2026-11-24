@@ -1,0 +1,356 @@
+{
+  "machine_tick_note": {
+    "subtitle": "subtitles.industrialcore.machine_tick_note",
+    "sounds": [
+      "industrialcore:machine_tick_note"
+    ]
+  },
+  "machine_complete": {
+    "subtitle": "subtitles.industrialcore.machine_complete",
+    "sounds": [
+      "industrialcore:machine_complete"
+    ]
+  },
+  "machine_extract": {
+    "subtitle": "subtitles.industrialcore.machine_extract",
+    "sounds": [
+      "industrialcore:machine_extract"
+    ]
+  },
+  "machine_jackpot": {
+    "subtitle": "subtitles.industrialcore.machine_jackpot",
+    "sounds": [
+      "industrialcore:machine_jackpot"
+    ]
+  },
+  "gen_thermal_hum": {
+    "subtitle": "subtitles.industrialcore.gen_thermal_hum",
+    "sounds": [
+      "industrialcore:gen_thermal_hum"
+    ]
+  },
+  "gen_kinetic_hum": {
+    "subtitle": "subtitles.industrialcore.gen_kinetic_hum",
+    "sounds": [
+      "industrialcore:gen_kinetic_hum"
+    ]
+  },
+  "gen_reactor_hum": {
+    "subtitle": "subtitles.industrialcore.gen_reactor_hum",
+    "sounds": [
+      "industrialcore:gen_reactor_hum"
+    ]
+  },
+  "gen_power_pulse": {
+    "subtitle": "subtitles.industrialcore.gen_power_pulse",
+    "sounds": [
+      "industrialcore:gen_power_pulse"
+    ]
+  },
+  "level_up": {
+    "subtitle": "subtitles.industrialcore.level_up",
+    "sounds": [
+      "industrialcore:level_up"
+    ]
+  },
+  "limit_break": {
+    "subtitle": "subtitles.industrialcore.limit_break",
+    "sounds": [
+      "industrialcore:limit_break"
+    ]
+  },
+  "tree_riser": {
+    "subtitle": "subtitles.industrialcore.tree_riser",
+    "sounds": [
+      "industrialcore:tree_riser"
+    ]
+  },
+  "tree_unlock_t2": {
+    "subtitle": "subtitles.industrialcore.tree_unlock_t2",
+    "sounds": [
+      "industrialcore:tree_unlock_t2"
+    ]
+  },
+  "tree_unlock_t3": {
+    "subtitle": "subtitles.industrialcore.tree_unlock_t3",
+    "sounds": [
+      "industrialcore:tree_unlock_t3"
+    ]
+  },
+  "tree_unlock_t4": {
+    "subtitle": "subtitles.industrialcore.tree_unlock_t4",
+    "sounds": [
+      "industrialcore:tree_unlock_t4"
+    ]
+  },
+  "tree_unlock_t5": {
+    "subtitle": "subtitles.industrialcore.tree_unlock_t5",
+    "sounds": [
+      "industrialcore:tree_unlock_t5"
+    ]
+  },
+  "tree_fog_clear": {
+    "subtitle": "subtitles.industrialcore.tree_fog_clear",
+    "sounds": [
+      "industrialcore:tree_fog_clear"
+    ]
+  },
+  "ui_click": {
+    "subtitle": "subtitles.industrialcore.ui_click",
+    "sounds": [
+      "industrialcore:ui_click"
+    ]
+  },
+  "ui_locked": {
+    "subtitle": "subtitles.industrialcore.ui_locked",
+    "sounds": [
+      "industrialcore:ui_locked"
+    ]
+  },
+  "world_gen_thermal": {
+    "subtitle": "subtitles.industrialcore.world_gen_thermal",
+    "sounds": [
+      "industrialcore:world_gen_thermal"
+    ]
+  },
+  "world_gen_kinetic": {
+    "subtitle": "subtitles.industrialcore.world_gen_kinetic",
+    "sounds": [
+      "industrialcore:world_gen_kinetic"
+    ]
+  },
+  "world_gen_reactor": {
+    "subtitle": "subtitles.industrialcore.world_gen_reactor",
+    "sounds": [
+      "industrialcore:world_gen_reactor"
+    ]
+  },
+  "world_machine_hum": {
+    "subtitle": "subtitles.industrialcore.world_machine_hum",
+    "sounds": [
+      "industrialcore:world_machine_hum"
+    ]
+  },
+  "machine_streak_up": {
+    "subtitle": "subtitles.industrialcore.machine_streak_up",
+    "sounds": [
+      "industrialcore:machine_streak_up"
+    ]
+  },
+  "weapon_laser_beam": {
+    "subtitle": "subtitles.industrialcore.weapon_laser_beam",
+    "sounds": [
+      "industrialcore:weapon_laser_beam"
+    ]
+  },
+  "weapon_laser_loop_light": {
+    "subtitle": "subtitles.industrialcore.weapon_laser_loop_light",
+    "sounds": [
+      "industrialcore:weapon_laser_loop_light"
+    ]
+  },
+  "weapon_laser_loop_heavy": {
+    "subtitle": "subtitles.industrialcore.weapon_laser_loop_heavy",
+    "sounds": [
+      "industrialcore:weapon_laser_loop_heavy"
+    ]
+  },
+  "weapon_laser_hit_sizzle": {
+    "subtitle": "subtitles.industrialcore.weapon_laser_hit_sizzle",
+    "sounds": [
+      "industrialcore:weapon_laser_hit_sizzle"
+    ]
+  },
+  "weapon_railgun_fire": {
+    "subtitle": "subtitles.industrialcore.weapon_railgun_fire",
+    "sounds": [
+      "industrialcore:weapon_railgun_fire"
+    ]
+  },
+  "weapon_blade_slash": {
+    "subtitle": "subtitles.industrialcore.weapon_blade_slash",
+    "sounds": [
+      "industrialcore:weapon_blade_slash"
+    ]
+  },
+  "weapon_blade_ignite": {
+    "subtitle": "subtitles.industrialcore.weapon_blade_ignite",
+    "sounds": [
+      "industrialcore:weapon_blade_ignite"
+    ]
+  },
+  "weapon_blade_dash": {
+    "subtitle": "subtitles.industrialcore.weapon_blade_dash",
+    "sounds": [
+      "industrialcore:weapon_blade_dash"
+    ]
+  },
+  "weapon_bow_fire": {
+    "subtitle": "subtitles.industrialcore.weapon_bow_fire",
+    "sounds": [
+      "industrialcore:weapon_bow_fire"
+    ]
+  },
+  "weapon_lockon": {
+    "subtitle": "subtitles.industrialcore.weapon_lockon",
+    "sounds": [
+      "industrialcore:weapon_lockon"
+    ]
+  },
+  "machine_wind_blade": {
+    "subtitle": "subtitles.industrialcore.machine_wind_blade",
+    "sounds": [
+      "industrialcore:machine_wind_blade"
+    ]
+  },
+  "machine_hydro_turbine": {
+    "subtitle": "subtitles.industrialcore.machine_hydro_turbine",
+    "sounds": [
+      "industrialcore:machine_hydro_turbine"
+    ]
+  },
+  "machine_boiler_fire": {
+    "subtitle": "subtitles.industrialcore.machine_boiler_fire",
+    "sounds": [
+      "industrialcore:machine_boiler_fire"
+    ]
+  },
+  "machine_engine_piston": {
+    "subtitle": "subtitles.industrialcore.machine_engine_piston",
+    "sounds": [
+      "industrialcore:machine_engine_piston"
+    ]
+  },
+  "machine_steam_turbine": {
+    "subtitle": "subtitles.industrialcore.machine_steam_turbine",
+    "sounds": [
+      "industrialcore:machine_steam_turbine"
+    ]
+  },
+  "machine_nuclear_core": {
+    "subtitle": "subtitles.industrialcore.machine_nuclear_core",
+    "sounds": [
+      "industrialcore:machine_nuclear_core"
+    ]
+  },
+  "machine_singularity_pulse": {
+    "subtitle": "subtitles.industrialcore.machine_singularity_pulse",
+    "sounds": [
+      "industrialcore:machine_singularity_pulse"
+    ]
+  },
+  "machine_press_impact": {
+    "subtitle": "subtitles.industrialcore.machine_press_impact",
+    "sounds": [
+      "industrialcore:machine_press_impact"
+    ]
+  },
+  "machine_crusher_jaw": {
+    "subtitle": "subtitles.industrialcore.machine_crusher_jaw",
+    "sounds": [
+      "industrialcore:machine_crusher_jaw"
+    ]
+  },
+  "machine_furnace_arc": {
+    "subtitle": "subtitles.industrialcore.machine_furnace_arc",
+    "sounds": [
+      "industrialcore:machine_furnace_arc"
+    ]
+  },
+  "machine_electrolyzer_bubble": {
+    "subtitle": "subtitles.industrialcore.machine_electrolyzer_bubble",
+    "sounds": [
+      "industrialcore:machine_electrolyzer_bubble"
+    ]
+  },
+  "machine_assembler_servo": {
+    "subtitle": "subtitles.industrialcore.machine_assembler_servo",
+    "sounds": [
+      "industrialcore:machine_assembler_servo"
+    ]
+  },
+  "machine_drill_bore": {
+    "subtitle": "subtitles.industrialcore.machine_drill_bore",
+    "sounds": [
+      "industrialcore:machine_drill_bore"
+    ]
+  },
+  "machine_compressor_slam": {
+    "subtitle": "subtitles.industrialcore.machine_compressor_slam",
+    "sounds": [
+      "industrialcore:machine_compressor_slam"
+    ]
+  },
+  "machine_harvester_blade": {
+    "subtitle": "subtitles.industrialcore.machine_harvester_blade",
+    "sounds": [
+      "industrialcore:machine_harvester_blade"
+    ]
+  },
+  "machine_winch_reel": {
+    "subtitle": "subtitles.industrialcore.machine_winch_reel",
+    "sounds": [
+      "industrialcore:machine_winch_reel"
+    ]
+  },
+  "machine_fan_airflow": {
+    "subtitle": "subtitles.industrialcore.machine_fan_airflow",
+    "sounds": [
+      "industrialcore:machine_fan_airflow"
+    ]
+  },
+  "machine_quantum_chime": {
+    "subtitle": "subtitles.industrialcore.machine_quantum_chime",
+    "sounds": [
+      "industrialcore:machine_quantum_chime"
+    ]
+  },
+  "rift_portal_horn": {
+    "subtitle": "subtitles.industrialcore.rift_portal_horn",
+    "sounds": [
+      "industrialcore:rift_portal_horn"
+    ]
+  },
+  "rift_stalker_blink": {
+    "subtitle": "subtitles.industrialcore.rift_stalker_blink",
+    "sounds": [
+      "industrialcore:rift_stalker_blink"
+    ]
+  },
+  "void_sentinel_cannon": {
+    "subtitle": "subtitles.industrialcore.void_sentinel_cannon",
+    "sounds": [
+      "industrialcore:void_sentinel_cannon"
+    ]
+  },
+  "phase_juggernaut_slam": {
+    "subtitle": "subtitles.industrialcore.phase_juggernaut_slam",
+    "sounds": [
+      "industrialcore:phase_juggernaut_slam"
+    ]
+  },
+  "rift_shield_deflect": {
+    "subtitle": "subtitles.industrialcore.rift_shield_deflect",
+    "sounds": [
+      "industrialcore:rift_shield_deflect"
+    ]
+  },
+  "sovereign_roar_overdrive": {
+    "subtitle": "subtitles.industrialcore.sovereign_roar_overdrive",
+    "sounds": [
+      "industrialcore:sovereign_roar_overdrive"
+    ]
+  },
+  "sovereign_defeat_collapse": {
+    "subtitle": "subtitles.industrialcore.sovereign_defeat_collapse",
+    "sounds": [
+      "industrialcore:sovereign_defeat_collapse"
+    ]
+  },
+  "rift_raid_victory_fanfare": {
+    "subtitle": "subtitles.industrialcore.rift_raid_victory_fanfare",
+    "sounds": [
+      "industrialcore:rift_raid_victory_fanfare"
+    ]
+  }
+}

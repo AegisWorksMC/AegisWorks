@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C I",
+    " X ",
+    "C I"
+  ],
+  "key": {
+    "C": {
+      "item": "industrialcore:copper_dust"
+    },
+    "I": {
+      "item": "industrialcore:iron_dust"
+    },
+    "X": {
+      "item": "industrialcore:reconstruction_crystal"
+    }
+  },
+  "result": {
+    "id": "industrialcore:reconstructor",
+    "count": 1
+  }
+}

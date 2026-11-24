@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NQN",
+    "APA",
+    "VVV"
+  ],
+  "key": {
+    "N": {
+      "item": "industrialcore:nebula_crystal"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "P": {
+      "item": "industrialcore:phase_core"
+    },
+    "V": {
+      "item": "industrialcore:void_iron_ingot"
+    }
+  },
+  "result": {
+    "id": "industrialcore:quantum_transporter",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:pressing",
+  "ingredient": {
+    "item": "industrialcore:exposed_void_iron"
+  },
+  "result": {
+    "id": "industrialcore:void_iron_washed",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 8
+}

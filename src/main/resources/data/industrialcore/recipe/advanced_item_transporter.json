@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GSG",
+    "FMF",
+    "GSG"
+  ],
+  "key": {
+    "G": {
+      "item": "industrialcore:steel_ingot"
+    },
+    "S": {
+      "item": "industrialcore:electronic_component"
+    },
+    "F": {
+      "item": "industrialcore:reinforced_machine_frame"
+    },
+    "M": {
+      "item": "industrialcore:high_power_motor"
+    }
+  },
+  "result": {
+    "id": "industrialcore:advanced_item_transporter",
+    "count": 1
+  }
+}

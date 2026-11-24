@@ -1,0 +1,14 @@
+{
+  "type": "industrialcore:alloying",
+  "first": {
+    "item": "minecraft:copper_ingot"
+  },
+  "second": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "industrialcore:brass_ingot",
+    "count": 2
+  },
+  "time": 160
+}

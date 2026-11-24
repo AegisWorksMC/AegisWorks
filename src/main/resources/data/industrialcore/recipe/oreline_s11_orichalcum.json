@@ -1,0 +1,17 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:orichalcum_micronized"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "id": "industrialcore:orichalcum_crystallized",
+    "count": 64
+  },
+  "time": 10,
+  "energy": 45
+}

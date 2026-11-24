@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CQC",
+    "QEQ",
+    "CQC"
+  ],
+  "key": {
+    "C": {
+      "item": "industrialcore:reactor_casing"
+    },
+    "Q": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    }
+  },
+  "result": {
+    "id": "industrialcore:reactor_core_cell",
+    "count": 1
+  }
+}

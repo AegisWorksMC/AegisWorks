@@ -1,0 +1,106 @@
+plugins {
+    id 'java'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+
+version = project.mod_version
+group = project.mod_group_id
+
+base {
+    archivesName = project.mod_id
+}
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(21)
+}
+
+neoForge {
+    version = project.neo_version
+
+    runs {
+        client {
+            client()
+        }
+        server {
+            server()
+            programArguments.addAll '--nogui'
+        }
+        gameTestServer {
+            type = "gameTestServer"
+        }
+    }
+
+    mods {
+        "${project.mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    // JEI (Just Enough Items) for 1.21.1 / NeoForge. The API artifact is compile-only and is
+    // never bundled, so JEI stays an optional client mod: on a dedicated server, or on a client
+    // without JEI, no class of this mod ever references it.
+    maven {
+        name = 'BlameJared'
+        url = 'https://maven.blamejared.com'
+    }
+    // Modrinth Maven for optional compile-only integrations (e.g. Jade).
+    exclusiveContent {
+        forRepository {
+            maven {
+                name = 'Modrinth'
+                url = 'https://api.modrinth.com/maven'
+            }
+        }
+        filter {
+            includeGroup 'maven.modrinth'
+        }
+    }
+}
+
+dependencies {
+    compileOnly "mezz.jei:jei-1.21.1-neoforge-api:${project.jei_version}"
+    // Only so the dev client and JEI run together; the published jar does not depend on it.
+    runtimeOnly "mezz.jei:jei-1.21.1-neoforge:${project.jei_version}"
+    // Optional Jade (1.21.1 NeoForge) compile-only integration — never bundled, strictly isolated
+    // in com.industrialcore.compat.jade so missing Jade causes zero classloading.
+    // Uses a local drop-in jar when present (offline builds), otherwise resolves via Modrinth Maven.
+    def localJadeJar = file('libs/Jade-1.21.1-NeoForge-15.10.6.jar')
+    if (localJadeJar.exists()) {
+        compileOnly files(localJadeJar)
+    } else {
+        compileOnly "maven.modrinth:jade:${project.jade_version}"
+    }
+    testImplementation platform('org.junit:junit-bom:5.10.2')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    // Gson (the JSON library Minecraft already ships) is only needed by the data tests that read
+    // the shipped recipe files, so it is a test-only dependency and never shaded into the mod.
+    testImplementation 'com.google.code.gson:gson:2.11.0'
+}
+
+tasks.named('test', Test).configure {
+    useJUnitPlatform()
+    testLogging {
+        events 'passed', 'skipped', 'failed'
+        exceptionFormat 'full'
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+// Make the built jar easy to find in a stable location.
+tasks.register('copyJarToDist', Copy) {
+    dependsOn tasks.named('jar')
+    from tasks.named('jar').flatMap { it.archiveFile }
+    into layout.projectDirectory.dir('dist')
+    rename { "${project.mod_id}-${project.version}+mc${project.minecraft_version}.jar" }
+}
+
+tasks.named('build') {
+    finalizedBy 'copyJarToDist'
+}

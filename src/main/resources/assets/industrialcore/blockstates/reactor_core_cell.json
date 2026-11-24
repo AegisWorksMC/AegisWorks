@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "industrialcore:block/reactor_core_cell"
+    },
+    "lit=true": {
+      "model": "industrialcore:block/reactor_core_cell_lit"
+    }
+  }
+}

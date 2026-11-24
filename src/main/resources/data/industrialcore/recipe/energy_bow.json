@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AC",
+    "E B",
+    " AC"
+  ],
+  "key": {
+    "A": {
+      "item": "industrialcore:aether_crystal"
+    },
+    "C": {
+      "item": "industrialcore:quantum_shard"
+    },
+    "E": {
+      "item": "industrialcore:electronic_component"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    }
+  },
+  "result": {
+    "id": "industrialcore:energy_bow",
+    "count": 1
+  }
+}

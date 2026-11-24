@@ -1,0 +1,535 @@
+{
+  "credit": "Industrial Core - Advanced Transporter casing part: conveyor",
+  "ambientocclusion": true,
+  "textures": {
+    "plate": "industrialcore:block/advanced_casing_plate",
+    "beam": "industrialcore:block/advanced_casing_beam",
+    "belt": "industrialcore:block/advanced_casing_belt",
+    "louver": "industrialcore:block/advanced_casing_louver",
+    "boss": "industrialcore:block/advanced_casing_boss",
+    "deck": "industrialcore:block/advanced_casing_deck",
+    "led": "industrialcore:block/advanced_casing_led"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        3,
+        1.5,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            14.5,
+            3,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            14.5,
+            9,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            7,
+            3,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        0,
+        0
+      ],
+      "to": [
+        13,
+        1.5,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            14.5,
+            13,
+            16
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            0,
+            13,
+            3
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            13,
+            13,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        1.5,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            14.5,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            7,
+            14.5,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            7,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        0,
+        3
+      ],
+      "to": [
+        13,
+        1.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "texture": "#belt",
+          "uv": [
+            3,
+            7,
+            13,
+            13
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        9
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#belt",
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#belt",
+          "uv": [
+            0,
+            0,
+            7,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#belt",
+          "uv": [
+            9,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": "#belt",
+          "uv": [
+            0,
+            9,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": "#belt",
+          "uv": [
+            0,
+            0,
+            16,
+            7
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1.5,
+        0
+      ],
+      "to": [
+        3,
+        14.5,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            1.5,
+            3,
+            14.5
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            1.5,
+            16,
+            14.5
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            1.5,
+            3,
+            14.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        1.5,
+        0
+      ],
+      "to": [
+        16,
+        14.5,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            1.5,
+            16,
+            14.5
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            1.5,
+            16,
+            14.5
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            1.5,
+            3,
+            14.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1.5,
+        3
+      ],
+      "to": [
+        3,
+        16,
+        9
+      ],
+      "faces": {
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            0,
+            9,
+            14.5
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            3,
+            3,
+            9
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        1.5,
+        3
+      ],
+      "to": [
+        13,
+        14.5,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#belt",
+          "uv": [
+            3,
+            1.5,
+            13,
+            14.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        1.5,
+        3
+      ],
+      "to": [
+        16,
+        16,
+        9
+      ],
+      "faces": {
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            7,
+            0,
+            13,
+            14.5
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            3,
+            16,
+            9
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        14.5,
+        0
+      ],
+      "to": [
+        3,
+        16,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            3,
+            1.5
+          ]
+        },
+        "west": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            3,
+            1.5
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            0,
+            0,
+            3,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        14.5,
+        0
+      ],
+      "to": [
+        13,
+        16,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            0,
+            13,
+            1.5
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            0,
+            13,
+            3
+          ]
+        },
+        "down": {
+          "texture": "#beam",
+          "uv": [
+            3,
+            13,
+            13,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        13,
+        14.5,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            0,
+            16,
+            1.5
+          ]
+        },
+        "east": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            0,
+            16,
+            1.5
+          ]
+        },
+        "up": {
+          "texture": "#beam",
+          "uv": [
+            13,
+            0,
+            16,
+            3
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        14.5,
+        3
+      ],
+      "to": [
+        13,
+        16,
+        9
+      ],
+      "faces": {
+        "up": {
+          "texture": "#belt",
+          "uv": [
+            3,
+            3,
+            13,
+            9
+          ]
+        }
+      }
+    }
+  ]
+}

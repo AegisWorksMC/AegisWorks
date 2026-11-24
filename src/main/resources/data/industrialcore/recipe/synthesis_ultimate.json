@@ -1,0 +1,71 @@
+{
+  "type": "industrialcore:synthesis",
+  "ingredients": [
+    {
+      "ingredient": {
+        "item": "industrialcore:synthetic_ore_unstable_ultimate"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:astral_silver_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:mithril_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:nebula_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:orichalcum_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:quantum_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:adamantite_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:aether_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:void_iron_dust"
+      },
+      "count": 1
+    },
+    {
+      "ingredient": {
+        "item": "industrialcore:reconstruction_crystal"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "id": "industrialcore:synthetic_ore_ultimate",
+    "count": 4
+  },
+  "time": 10,
+  "energy": 60
+}

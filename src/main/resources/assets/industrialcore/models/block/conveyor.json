@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "industrialcore:block/conveyor_top",
+    "front": "industrialcore:block/conveyor_front",
+    "side": "industrialcore:block/conveyor_side"
+  }
+}

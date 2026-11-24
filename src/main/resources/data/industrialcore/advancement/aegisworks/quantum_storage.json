@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:quantum_storage_core"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.quantum_storage.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.quantum_storage.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/logistics_pipes",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

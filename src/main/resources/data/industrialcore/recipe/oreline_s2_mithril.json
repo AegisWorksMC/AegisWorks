@@ -1,0 +1,12 @@
+{
+  "type": "industrialcore:electrolysis",
+  "ingredient": {
+    "item": "industrialcore:mithril_dust"
+  },
+  "result": {
+    "id": "industrialcore:pure_mithril",
+    "count": 2
+  },
+  "time": 10,
+  "energy": 20
+}

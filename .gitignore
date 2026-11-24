@@ -1,0 +1,42 @@
+# Gradle & build outputs
+.gradle/
+build/
+out/
+bin/
+
+# Local Minecraft run directory (client, dedicated server, gametest worlds)
+run/
+
+# Release artifacts, distribution packages, and promotional media
+release/
+dist/
+promo_gifs/
+
+# Third-party drop-in JARs and archives (never redistribute external JARs in Git)
+libs/*.jar
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.zip
+*.mp4
+*.gif
+*.log
+
+# Internal local dev notes, one-off asset generators, media pipelines, and test instances
+docs/
+tools/
+teaser_pipeline/
+test-instance/
+
+# IDE & OS files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+Thumbs.db
+
+# Python caches
+__pycache__/
+*.pyc

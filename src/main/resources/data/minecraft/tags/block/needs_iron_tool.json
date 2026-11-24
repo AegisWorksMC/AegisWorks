@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "industrialcore:astral_silver_ore",
+    "industrialcore:mithril_ore",
+    "industrialcore:uranium_ore",
+    "industrialcore:deepslate_uranium_ore"
+  ]
+}

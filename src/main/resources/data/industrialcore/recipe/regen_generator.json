@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CBC",
+    "IMI",
+    "CRC"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "industrialcore:battery"
+    },
+    "M": {
+      "item": "industrialcore:machine_frame"
+    }
+  },
+  "result": {
+    "id": "industrialcore:regen_generator",
+    "count": 1
+  }
+}

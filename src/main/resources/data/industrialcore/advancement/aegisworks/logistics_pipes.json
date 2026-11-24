@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "industrialcore:item_pipe"
+    },
+    "title": {
+      "translate": "advancement.industrialcore.logistics_pipes.title"
+    },
+    "description": {
+      "translate": "advancement.industrialcore.logistics_pipes.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "industrialcore:aegisworks/assembler",
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
