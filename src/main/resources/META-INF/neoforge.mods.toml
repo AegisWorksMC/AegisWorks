@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
 license = "MIT"
-issueTrackerURL = "https://discord.gg/QKW9fhP2de"
+issueTrackerURL = "https://github.com/AegisWorksMC/AegisWorks/issues"
 
 [[mods]]
 modId = "industrialcore"
@@ -10,7 +10,7 @@ displayName = "AegisWorks"
 authors = "AegisWorks Team"
 logoFile = "aegisworks_logo.png"
 logoBlur = false
-displayURL = "https://discord.gg/QKW9fhP2de"
+displayURL = "https://github.com/AegisWorksMC/AegisWorks"
 description = '''
 AegisWorks (Open Beta) — Next-generation sci-fi industrial automation & tactical equipment mod for Minecraft 1.21.1 (NeoForge).
 Features a 4-branch 38-machine skill tree, water-cooled nuclear & singularity multiblock reactors,
